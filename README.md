@@ -1,13 +1,7 @@
-Clon de Whatsapp Web basado en Next.js y Firebase.
+Whatsapp Web clone based on Next.js and Firebase.
 
-Tecnologías utilizadas:
+Used technologies:
 - Next.js
 - Firebase
 - React
 - Styled components
-
-TODO:
-- Hacer responsive.
-- Arreglar autoscroll al enviar mensaje.
-- Modo oscuro.
-- Funcionalidad botones.
